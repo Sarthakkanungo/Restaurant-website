@@ -5,26 +5,26 @@ import MealItem from "./MealItem/MealItem";
 const DUMMY_MEALS = [
   {
     id: "m1",
-    name: "Sushi",
-    description: "Finest fish and veggies",
+    name: "Sandwich",
+    description: "A food item made using bread and filled with veggies, cheese, etc.",
     price: 22.99,
   },
   {
     id: "m2",
-    name: "Schnitzel",
-    description: "A german specialty!",
+    name: "Pasta",
+    description: "An Italian dish made from durum wheat and water. !",
     price: 16.5,
   },
   {
     id: "m3",
-    name: "Barbecue Burger",
-    description: "American, raw, meaty",
+    name: "Ice cream",
+    description: "A soft frozen dessert made using milk, cream, and flavours.",
     price: 12.99,
   },
   {
     id: "m4",
-    name: "Green Bowl",
-    description: "Healthy...and green...",
+    name: "French-fries",
+    description: "potato strips and cooked by being fried in deep fat",
     price: 18.99,
   },
 ];

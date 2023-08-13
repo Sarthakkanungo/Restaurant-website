@@ -36,8 +36,7 @@ const HeaderCardButton = (props) => {
 
   return (
 
-    <button className={btnClasses} onClick={props.onClick}>
-        
+    <button className={btnClasses} onClick={props.onClick}>  
       <span className={classes.icon}>
         <CartIcon />
       </span>
